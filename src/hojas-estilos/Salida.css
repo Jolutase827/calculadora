@@ -1,0 +1,8 @@
+.salida{
+    background-color: black;
+    color: white;
+    box-shadow: rgb(196, 195, 195) 0px 3px 1px 1px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 3px;
+}

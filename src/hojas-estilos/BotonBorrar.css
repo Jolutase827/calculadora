@@ -1,0 +1,18 @@
+.calculadora>button{
+    background-color: red;
+    color: white;
+    border: solid 3px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    margin-top: 13px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    border-radius: 50px !important;
+    font-size: 25px;
+}
+.calculadora>button:hover{
+    background-color: rgb(252, 76, 63);
+    transition: 0.3s;
+}
